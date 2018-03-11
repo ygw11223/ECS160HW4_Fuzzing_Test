@@ -1,1 +1,1 @@
-# ECS160HW4_Fuzzing_Test
+Team Members: Guowei Yang, Anze Wang
